@@ -18,7 +18,11 @@ public class objmain {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-
+        
+        
+        System.out.println("Hola mundo");
+        
+        
         clase_cuenta una_cuenta = new clase_cuenta("Mario", 400);
         clase_cuenta cuenta_2 = new clase_cuenta("Fernando", 300);
         //Aqui lo estamos almacenando
